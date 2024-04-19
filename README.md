@@ -3,7 +3,7 @@
 </p>
 
 
-# <p align="center">Brain health in diverse settings: How age, demographics and cognition shape brain function</p>
+# <p align="center">Structural inequality and brain dynamics across diverse samples</p>
 
 # Table of Contents
 - [Summary](#Summary)
