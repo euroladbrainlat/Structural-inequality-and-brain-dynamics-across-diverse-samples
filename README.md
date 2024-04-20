@@ -36,13 +36,7 @@ The metric group databases used in the study (Power spectrum metrics, Aperiodic 
 
 ### General description:
 <a name="Generaldescription"></a>
-Each database includes subjects' age, sex, and education years. Those databases containing cognition data also provide subjects' Mini-Mental State Examination (MMSE) scores. Databases in the main_result directory encompass all subjects utilized in the study, while those located in the supp_results directory pertain to subjects recorded solely with eyes closed. The databases with the suffix *_cognition* contain cognition data, while the one with the *_total* suffix includes all subjects. Below are the directory and name of each database:
-
-#### Main results:
-... in progress
----
-#### Supplementary results:
-... in progress
+Each database includes subjects' age, sex, and education years. Those databases containing cognition data also provide subjects' Mini-Mental State Examination (MMSE) scores. Databases in the main_result directory encompass all subjects utilized in the study.
 
 
 ### Metrics Description:
